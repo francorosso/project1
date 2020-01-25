@@ -6,8 +6,8 @@
    45  ls
    46  cat >> test2.txt
    47  git show
-   48  history | tail
-   49  history | tail >> README.md
+   48 ''' history | tail
+   49  history | tail >> README.md'''
 
 # hello
 ##hello
@@ -17,3 +17,4 @@
 
 1. git basic
 2. git exercise
+
